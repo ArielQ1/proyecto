@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/proyecto/static/css/main.ba5d64d3.css",
+    "main.js": "/proyecto/static/js/main.5aa959c3.js",
+    "static/js/787.917517a3.chunk.js": "/proyecto/static/js/787.917517a3.chunk.js",
+    "static/media/color-sharp.png": "/proyecto/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/Pentium_I.jpg": "/proyecto/static/media/Pentium_I.62bf710b07b2ba41c525.jpg",
+    "static/media/CPUnueva.png": "/proyecto/static/media/CPUnueva.f4c7bc691d18d71439b0.png",
+    "static/media/Cuarta1.jpg": "/proyecto/static/media/Cuarta1.0795e522c2a30f2c1b78.jpg",
+    "static/media/CPUantigua.png": "/proyecto/static/media/CPUantigua.bc90c49179787b9b0818.png",
+    "static/media/ChatGPT.jpeg": "/proyecto/static/media/ChatGPT.7f2b8ece785e8f6df78c.jpeg",
+    "static/media/Pentium_II.jpg": "/proyecto/static/media/Pentium_II.7966cc8d84a7bce7e27e.jpg",
+    "static/media/banner-bg.jpg": "/proyecto/static/media/banner-bg.2d8601d5a3693f1353ae.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/proyecto/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/proyecto/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/proyecto/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/segunda-generacion.jpg": "/proyecto/static/media/segunda-generacion.fb6f08a824086f25aa53.jpg",
+    "static/media/20231029_152405.jpg": "/proyecto/static/media/20231029_152405.baaf838de56175f5cf65.jpg",
+    "static/media/image.jpg": "/proyecto/static/media/image.1bd8aca189470be4f997.jpg",
+    "static/media/footer-bg.png": "/proyecto/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/bio1.jpg": "/proyecto/static/media/bio1.87073bfeefd73d0df399.jpg",
+    "static/media/LogoPC-1.png": "/proyecto/static/media/LogoPC-1.e03ea703e6de53d8daa5.png",
+    "static/media/Pentium_III.jpg": "/proyecto/static/media/Pentium_III.6e0bb6c6dd7e6d2f086c.jpg",
+    "static/media/PENTIUM 4.webp": "/proyecto/static/media/PENTIUM 4.e34bbfb5791228e5ea5b.webp",
+    "static/media/Cuarta3.webp": "/proyecto/static/media/Cuarta3.b2d2e9d83c46e8e84f2f.webp",
+    "static/media/logo.svg": "/proyecto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/proyecto/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/proyecto/index.html",
+    "static/media/nav-icon1.svg": "/proyecto/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/proyecto/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.ba5d64d3.css.map": "/proyecto/static/css/main.ba5d64d3.css.map",
+    "main.5aa959c3.js.map": "/proyecto/static/js/main.5aa959c3.js.map",
+    "787.917517a3.chunk.js.map": "/proyecto/static/js/787.917517a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5d64d3.css",
+    "static/js/main.5aa959c3.js"
+  ]
+}
